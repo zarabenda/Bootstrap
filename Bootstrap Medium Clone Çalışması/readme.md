@@ -1,3 +1,4 @@
+# Bootstrap Medium Clone
 TR: Medium.com sitesi clonelanmıştır. Kaynak fotoğraflar medium.com sitesinden, inspect/incele yöntemiyle alınmıştır.<br>
 EN: Page of medium.com website is cloned. Source photos upgraded with inspect method from medium.com website.
 
