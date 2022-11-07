@@ -1,4 +1,4 @@
-# CSS Cs:Go Developed Page
+# CSS Cs:Go Developed Page🙌
 
 <b>TR</b>: Sadece CSS ve Html kullanarak yapılan CS:GO Skins sitesi düzenlenerek Bootstrap kütüphanesinin yardımıyla daha da zenginleştirildi ve görsel açıdan iyileştirildi. Sitenin eski hali için kaydırınız.<br>
 <b>EN</b>: The CS:GO Skins web site made using only CSS and Html, has been edited and further enriched with the help of the Bootstrap library and visually improved.<br>
