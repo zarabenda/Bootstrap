@@ -1,5 +1,5 @@
-medium.com sitesi clonelanmıştır. Kaynak fotoğraflar medium.com sitesinden, inspect/incele yöntemiyle alınmıştır.
-page of medium.com website is cloned. Source photos upgraded with inspect method from medium.com website.
+TR: Medium.com sitesi clonelanmıştır. Kaynak fotoğraflar medium.com sitesinden, inspect/incele yöntemiyle alınmıştır.
+EN: Page of medium.com website is cloned. Source photos upgraded with inspect method from medium.com website.
 
 
 
