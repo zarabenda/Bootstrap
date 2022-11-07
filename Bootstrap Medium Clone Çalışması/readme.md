@@ -1,6 +1,6 @@
 # Bootstrap Medium Clone🙌
-<b>TR:</b> Medium.com sitesi clonelanmıştır. Kaynak fotoğraflar medium.com sitesinden, inspect/incele yöntemiyle alınmıştır.<br>
-<b>EN:</b>  Page of medium.com website is cloned. Source photos upgraded with inspect method from medium.com website.
+<b>TR:</b> <b>Medium.com sitesi</b> clonelanmıştır. Kaynak fotoğraflar medium.com sitesinden, inspect/incele yöntemiyle alınmıştır.<br>
+<b>EN:</b>  <b>Page of medium.com</b> website is cloned. Source photos upgraded with inspect method from medium.com website.
 
 
 
