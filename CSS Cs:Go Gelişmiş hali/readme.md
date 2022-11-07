@@ -9,7 +9,7 @@
 <b>Hakkımızda/About Us</b>
 ![hakkımızda](https://user-images.githubusercontent.com/109991448/200232458-e054a50a-005d-4171-b49b-21af94d91e0e.jpg)
 
-Sitenin eski hali aşağıdadır:
+Sitenin eski hali aşağıdadır./
 Old page photos is below.
 <b>Anasayfa/Home Page</b>
 ![indexhtml](https://user-images.githubusercontent.com/109991448/200234570-caa9ce1b-00f7-44dd-a40a-e834538e69f9.jpg)
