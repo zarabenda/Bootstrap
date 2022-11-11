@@ -1,0 +1,37 @@
+/* Body Font Style */
+body {
+    font-family: 'PT Serif', serif;
+}
+/* Navbar and Heading Content Background */
+.bg-yellow {
+    background-color: #FFC017; 
+}
+/* Heading Content Bottom Border */
+.border-bottom-dark {
+    border-bottom: 1px solid #414141;
+}
+/* Div Font Style */
+div {
+    font-family: 'PT Serif', serif;
+  }
+  /* Navbar Medium Text */
+  .medium-svg {
+    width: auto;
+    height: 25px;
+  }
+ 
+/* Numbers near of Pic */
+  h5 {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(230, 230, 230, 1);
+    letter-spacing: 0;
+    box-sizing: inherit;
+}
+/* Navbar Heading Buttons */
+.nav-cont-btn {
+  background: rgba(25, 25, 25, 1);
+}
+/* Content with Pic Buttons */
+.content-btn {
+  background-color: rgba(242, 242, 242, 1); color: rgba(117, 117, 117, 1);
+}
