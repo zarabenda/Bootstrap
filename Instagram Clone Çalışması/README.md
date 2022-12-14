@@ -1,4 +1,4 @@
-# Instagram Clone🙌
+# Instagram Clone Practicing🙌
 
 <b>TR:</b>Basit bir <b>Instagram Clone çalışması</b>.<br>
 <b>EN:</b>A simple <b>Instagram Clone</b> practicing.<br>
