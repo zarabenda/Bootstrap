@@ -1,4 +1,4 @@
-#  Linkedin Clone Practice🙌
+#  Linkedin Clone Practicing🙌
 <b>TR:</b> <b>linkedin.com sitesi</b> clonelanmıştır.<br>
 <b>EN:</b>  <b>Page of linkedin.com</b> website is cloned.
 
